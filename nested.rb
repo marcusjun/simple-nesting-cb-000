@@ -92,7 +92,7 @@ def adding_matz
 			 #:languages=>["LISP","C"]
 		 }
 
-		 programmer_hash[:yukihuro_matsumoto]
+		 #programmer_hash[:yukihuro_matsumoto]
 
 end
 
